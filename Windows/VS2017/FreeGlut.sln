@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FreeGlutLib", "FreeGlutLib\FreeGlutLib.vcxproj", "{C13ECC88-EF0C-4D6E-8E02-25242DEEF61E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FreeGlutDll", "FreeGlutDll\FreeGlutDll.vcxproj", "{6D0DB6DD-11FE-419A-B811-3E7156A52D8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C13ECC88-EF0C-4D6E-8E02-25242DEEF61E}.Debug|x64.ActiveCfg = Debug|x64
+		{C13ECC88-EF0C-4D6E-8E02-25242DEEF61E}.Debug|x64.Build.0 = Debug|x64
+		{C13ECC88-EF0C-4D6E-8E02-25242DEEF61E}.Release|x64.ActiveCfg = Release|x64
+		{C13ECC88-EF0C-4D6E-8E02-25242DEEF61E}.Release|x64.Build.0 = Release|x64
+		{6D0DB6DD-11FE-419A-B811-3E7156A52D8E}.Debug|x64.ActiveCfg = Debug|x64
+		{6D0DB6DD-11FE-419A-B811-3E7156A52D8E}.Debug|x64.Build.0 = Debug|x64
+		{6D0DB6DD-11FE-419A-B811-3E7156A52D8E}.Release|x64.ActiveCfg = Release|x64
+		{6D0DB6DD-11FE-419A-B811-3E7156A52D8E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50D0EF9E-5F3A-4832-A07D-7108D2CBD97A}
+	EndGlobalSection
+EndGlobal
